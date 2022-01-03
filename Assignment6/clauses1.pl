@@ -1,0 +1,11 @@
+goalkeeper(ederson,bravo,carson).
+defender(otamendi,laporte,stones).
+defender(laporte,stones,garcia).
+defender(walker,mendy,agelino).
+defender(walker,laporte,stones).
+midfielder(debruyne,silva,foden).
+midfielder(debruyne,silva,rodri).
+midfielder(rodri,fernandinho,debruyne).
+forward(aguero,jesus,sterling).
+forward(aguero,sterling,mahrez).
+forward(aguero,mahrez,jesus).
